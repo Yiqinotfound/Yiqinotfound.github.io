@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiqi Yang (杨弋奇)"
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Shanghai Jiao Tong University"
-  uri              : # URL
+  bio              : "Junior at SJTU, Industrial Engineering"
+  location         : "Shanghai, China"
+  employer         : "SJTU"
+  uri              : "yiqinotfound.github.io"
   email            : "yiqi.notfound@gmail.com" 
 
   # Academic websites
