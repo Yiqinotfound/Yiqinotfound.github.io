@@ -51,7 +51,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2024.12* China National Scholarship (0.2% domestically). 
-- *2024.7* Special Prize, 19th ”Dongfeng Nissan Cup” National Industrial Engineering Application Case Competition, Tsinghua University. 
+- *2024.10* Academic Excellence Scholarship (Top 5% SJTU). 
+- *2024.7* Special Prize, 19th National IE Application Case Competition, Tsinghua University(Top 3 teams nationwide).
 - *2023.12* SAIC-GM Wuling Scholarship 
 - *2022.12* Zhiyuan Honorary Sholarship(Top 5%, SJTU)
 
