@@ -50,11 +50,13 @@ My research interest includes neural machine translation and computer vision. I 
   [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267975)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* China National Scholarship (0.2% domestically). 
+- *2024.7* Special Prize, 19th ”Dongfeng Nissan Cup” National Industrial Engineering Application Case Competition, Tsinghua University. 
+- *2023.12* SAIC-GM Wuling Scholarship 
+- *2022.12* Zhiyuan Honorary Sholarship(Top 5%, SJTU)
 
 # 📖 Educations
-- *2022.09 - 2026.06 (expected)*,   
+- SJTU *2022.09 - 2026.06 (expected)*,   
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
