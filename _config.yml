@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Yiqi Yang's Personal Website"
-description: "Third-year Industrial Engineering undergraduate at Shanghai Jiao Tong University, currently conducting research at UT Austin."
+description: " personal hub for Yiqi Yang — sharing research adventures, honors & awards, and education journey."
 # repository: "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -23,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Yiqi Yang"
   avatar: "images/selfie.jpg"
-  bio: Undergrad IE student at SJTU
+  bio: Undergrad IE student at SJTU, currently conducting research at UT Austin
   location: "Shanghai, China"
   employer:
   pubmed:
