@@ -48,6 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
   *Yiqi Yang*, Zhi Wang, Rui Gao, Shuang Li  
   *Accepted at 26th ACM Conference on Economics and Computation (EC'25)*  
   [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267975)
+  A longer version is in preparation for journal submission.
 
   - Invited talk:  
     - ACM EC'25, Stanford
