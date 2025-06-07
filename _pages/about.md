@@ -62,7 +62,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - **Shanghai Jiao Tong University (SJTU), Bachelor of Engineering in Industrial Engineering**  
   Sep 2022 – Jun 2026 (expected)  
-  - Senior (4th year) exchange student at University of Texas at Austin, Fall 2025
+  - Senior exchange student at University of Texas at Austin, Fall 2025 (majoring in ECE)
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
