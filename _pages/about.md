@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div> -->
 
 - **Reproducing Kernel Hilbert Space Choice Model** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267975)  
-  *Yiqi Yang*, Zhi Wang, Rui Gao, Shuang Li  
+  **Yiqi Yang**, Zhi Wang, Rui Gao, Shuang Li  
   *Accepted at 26th ACM Conference on Economics and Computation (EC'25)*  
   A longer version is in preparation for journal submission.
 
