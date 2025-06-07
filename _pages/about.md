@@ -46,18 +46,23 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Reproducing Kernel Hilbert Space Choice Model**  
   *Yiqi Yang*, Zhi Wang, Rui Gao, Shuang Li  
-  *To appear in the Proceedings of the 26th ACM Conference on Economics and Computation (EC 2025)*  
+  *Accepted at 26th ACM Conference on Economics and Computation (EC'25)*  
   [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267975)
+
+  - Invited talk:  
+    - ACM EC'25, Stanford
 
 # 🎖 Honors and Awards
 - *2024.12* China National Scholarship (0.2% domestically). 
-- *2024.10* Academic Excellence Scholarship (Top 5% SJTU). 
+- *2024.10* Academic Excellence Scholarship (Top 2% SJTU). 
 - *2024.7* Special Prize, 19th National IE Application Case Competition, Tsinghua University(Top 3 teams nationwide).
 - *2023.12* SAIC-GM Wuling Scholarship 
 - *2022.12* Zhiyuan Honorary Sholarship(Top 5%, SJTU)
 
 # 📖 Educations
-- SJTU *2022.09 - 2026.06 (expected)*,   
+- **Shanghai Jiao Tong University (SJTU), Bachelor of Engineering in Industrial Engineering**  
+  Sep 2022 – Jun 2026 (expected)  
+  - Senior (4th year) exchange student at University of Texas at Austin, Fall 2025
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
