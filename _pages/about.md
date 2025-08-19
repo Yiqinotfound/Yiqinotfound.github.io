@@ -51,8 +51,10 @@ My research interest includes neural machine translation and computer vision. I 
 
   - Invited talk:  
     - ACM EC'25, Stanford
+    - INFORMS Annual Meeting 2025 (Undergraduate OR Prize Finalist Session), Atlanta
 
 # 🎖 Honors and Awards
+- - *2025.10* Finalist, [INFORMS Undergraduate Operations Research Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize) (Top 8 worldwide).
 - *2024.12* China National Scholarship (0.2% domestically). 
 - *2024.10* Academic Excellence Scholarship (Top 2% SJTU). 
 - *2024.7* Special Prize, 19th National IE Application Case Competition, Tsinghua University(Top 3 teams nationwide).
