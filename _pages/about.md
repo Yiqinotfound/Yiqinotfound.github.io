@@ -53,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
     - ACM EC'25, Stanford
     - INFORMS Annual Meeting 2025 (Undergraduate OR Prize Finalist Session), Atlanta
   
-# 🧩 Working Projects
+# 🧩 Work in Progress
 
 - *"Reproducing Kernel Hilbert Space Contextual Optimization"*, with [Rui Gao](https://faculty.mccombs.utexas.edu/rui.gao/index.html) and [Shuang Li](https://shuangli01.github.io/).
 
