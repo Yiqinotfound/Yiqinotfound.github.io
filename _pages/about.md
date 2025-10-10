@@ -25,6 +25,10 @@ I am a undergraduate student at Shanghai Jiao Tong University, majoring in Indus
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+# 📖 Educations
+- **Shanghai Jiao Tong University (SJTU), Bachelor of Engineering in Industrial Engineering**  
+  Sep 2022 – Jun 2026 (expected)  
+  - Senior exchange student at University of Texas at Austin, Fall 2025 (majoring in ECE)
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -50,7 +54,6 @@ My research interest includes neural machine translation and computer vision. I 
   A longer version is in preparation for journal submission.
 
   - Invited talk:  
-    - ACM EC'25, Stanford
     - INFORMS Annual Meeting 2025 (Undergraduate OR Prize Finalist Session), Atlanta
   
 # 🧩 Work in Progress
@@ -66,10 +69,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.12* SAIC-GM Wuling Scholarship 
 - *2022.12* Zhiyuan Honorary Sholarship(Top 5%, SJTU)
 
-# 📖 Educations
-- **Shanghai Jiao Tong University (SJTU), Bachelor of Engineering in Industrial Engineering**  
-  Sep 2022 – Jun 2026 (expected)  
-  - Senior exchange student at University of Texas at Austin, Fall 2025 (majoring in ECE)
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
