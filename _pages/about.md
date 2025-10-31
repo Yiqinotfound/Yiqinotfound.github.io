@@ -38,42 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
-
-- ***"Reproducing Kernel Hilbert Space Choice Model"*** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267975)  
-  **Yiqi Yang**, [Zhi Wang](https://sites.google.com/view/wang-zhi), [Rui Gao](https://faculty.mccombs.utexas.edu/rui.gao/index.html), [Shuang Li](https://shuangli01.github.io/)  
-  *Accepted at 26th ACM Conference on Economics and Computation (EC'25)*  
-  A longer version is in preparation for journal submission.
-
-  - Invited talk:  
-    - INFORMS Annual Meeting 2025 (Undergraduate OR Prize Finalist Session), Atlanta
-  
-# 🧩 Work in Progress
-
-- *"Reproducing Kernel Hilbert Space Contextual Optimization"*, with [Rui Gao](https://faculty.mccombs.utexas.edu/rui.gao/index.html) and [Shuang Li](https://shuangli01.github.io/).
-
-
-# 🎖 Honors and Awards
-- *2025.10* Finalist, [INFORMS Undergraduate Operations Research Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize) (Top 8 worldwide).
-- *2024.12* China National Scholarship (0.2% domestically). 
-- *2024.10* Academic Excellence Scholarship (Top 2% SJTU). 
-- *2024.7* Special Prize, 19th National IE Application Case Competition, Tsinghua University(Top 3 teams nationwide).
-- *2023.12* SAIC-GM Wuling Scholarship 
-- *2022.12* Zhiyuan Honorary Sholarship(Top 5%, SJTU)
-
-# 📰 News 
+# 🔥 News 
 
 <div style="
   border: 2px solid rgba(212,175,55,0.4);
@@ -113,6 +78,43 @@ onmouseout="this.style.transform='scale(1)';
     Recognized for excellence in undergraduate research in operations research.
   </p>
 </div>
+
+# 📝 Publications 
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div> -->
+
+- ***"Reproducing Kernel Hilbert Space Choice Model"*** [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5267975)  
+  **Yiqi Yang**, [Zhi Wang](https://sites.google.com/view/wang-zhi), [Rui Gao](https://faculty.mccombs.utexas.edu/rui.gao/index.html), [Shuang Li](https://shuangli01.github.io/)  
+  *Accepted at 26th ACM Conference on Economics and Computation (EC'25)*  
+  A longer version is in preparation for journal submission.
+
+  - Invited talk:  
+    - INFORMS Annual Meeting 2025 (Undergraduate OR Prize Finalist Session), Atlanta
+  
+# 🧩 Work in Progress
+
+- *"Reproducing Kernel Hilbert Space Contextual Optimization"*, with [Rui Gao](https://faculty.mccombs.utexas.edu/rui.gao/index.html) and [Shuang Li](https://shuangli01.github.io/).
+
+
+# 🎖 Honors and Awards
+- *2025.10* Finalist, [INFORMS Undergraduate Operations Research Prize](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize) (Top 8 worldwide).
+- *2024.12* China National Scholarship (0.2% domestically). 
+- *2024.10* Academic Excellence Scholarship (Top 2% SJTU). 
+- *2024.7* Special Prize, 19th National IE Application Case Competition, Tsinghua University(Top 3 teams nationwide).
+- *2023.12* SAIC-GM Wuling Scholarship 
+- *2022.12* Zhiyuan Honorary Sholarship(Top 5%, SJTU)
+
+
 
 
 

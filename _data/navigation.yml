@@ -9,17 +9,19 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "News"
+    url: "/#-news"
+
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Work in Progress"
+    url: "/#-work-in-progress"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Work in Progress"
-    url: "/#-work-in-progress"
 
-  - title: "News"
-    url: "/#-news"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
