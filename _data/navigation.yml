@@ -15,6 +15,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
+  - title: "Work in Progress"
+    url: "/#-work-in-progress"
+
+  - title: "News"
+    url: "/#-news"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
