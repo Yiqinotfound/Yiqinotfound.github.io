@@ -76,6 +76,7 @@ My research interest includes neural machine translation and computer vision. I 
 # News 
 
 Finalist for the 2025 INFORMS Undergraduate Operations Research Prize
+
 <img src="images/2025informs.jpg" alt="INFORMS Undergraduate Operations Research Prize" width="300">
 
 
