@@ -73,6 +73,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.12* SAIC-GM Wuling Scholarship 
 - *2022.12* Zhiyuan Honorary Sholarship(Top 5%, SJTU)
 
+# News 
+
+Finalist for the 2025 INFORMS Undergraduate Operations Research Prize
+<img src="images/2025informs.jpg" alt="INFORMS Undergraduate Operations Research Prize" width="300">
+
+
 
 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
