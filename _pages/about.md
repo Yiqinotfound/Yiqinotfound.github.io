@@ -76,22 +76,44 @@ My research interest includes neural machine translation and computer vision. I 
 # News 
 
 <div style="
-  border: 1px solid #e5e7eb; 
-  border-radius: 12px; 
-  padding: 20px; 
-  max-width: 350px; 
-  background: #fafafa;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  border: 2px solid rgba(212,175,55,0.4);
+  border-radius: 16px; 
+  padding: 32px; 
+  max-width: 650px; 
+  background: #ffffff;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.1);
   text-align: center;
-">
-  <h3 style="font-size: 1.1rem; margin-bottom: 12px;">
-    Finalist for the 2025 INFORMS Undergraduate Operations Research Prize
-  </h3>
+  margin: 0 auto 32px auto;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+"
+onmouseover="this.style.transform='scale(1.03)'; 
+             this.style.boxShadow='0 12px 28px rgba(0,0,0,0.18)'"
+onmouseout="this.style.transform='scale(1)'; 
+            this.style.boxShadow='0 8px 18px rgba(0,0,0,0.1)'"
+>
+  
+  <h2 style="font-size: 1.5rem; margin-bottom: 18px; font-weight: 700; color: #8B6F00;">
+    🏅 Finalist for the 2025 INFORMS Undergraduate Operations Research Prize
+  </h2>
+
   <img src="images/2025informs.jpg" 
        alt="INFORMS Undergraduate Operations Research Prize" 
-       width="280"
-       style="border-radius: 8px;">
+       width="500"
+       style="
+         border-radius: 12px; 
+         margin-bottom: 14px; 
+         box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+         transition: transform 0.3s ease;
+       "
+       onmouseover="this.style.transform='translateY(-4px)'"
+       onmouseout="this.style.transform='translateY(0)'"
+  >
+
+  <p style="font-size: 1.05rem; color: #555; margin-top: 10px;">
+    Recognized for excellence in undergraduate research in operations research.
+  </p>
 </div>
+
 
 
 
