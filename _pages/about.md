@@ -73,7 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.12* SAIC-GM Wuling Scholarship 
 - *2022.12* Zhiyuan Honorary Sholarship(Top 5%, SJTU)
 
-# News 
+# 📰 News 
 
 <div style="
   border: 2px solid rgba(212,175,55,0.4);
